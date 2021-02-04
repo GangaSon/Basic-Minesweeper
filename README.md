@@ -7,7 +7,7 @@ Player will enter the coordinates (X Y) of location to clear the field, where X 
 # System Requirement
 This game will run perfectly on Windows OS. It may not work on Linux and MacOS (Prefer to check whether or not).
 # How to Run
-Just run the Minesweeper.exe file if u are a Windows user. OR
-If u are Linux/MacOS user then compile the mk3.cpp file and then run it.
+1. Just run the Minesweeper.exe file if u are a Windows user. OR
+2. If u are Linux/MacOS user then compile the mk3.cpp file and then run it.
 # Language Used
 C++
